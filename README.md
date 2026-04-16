@@ -42,4 +42,4 @@ This project was delivered under an intensive execution cycle to resolve deep sy
 4. **Verify:** After execution, refresh the project (F5) and open `reports/index.html`.
 
 ---
-*Developed by Dhathri Putty for the QualityHR Automation Project.*
+*Developed by Hema Kakarlapudi for the QualityHR Automation Project.*
